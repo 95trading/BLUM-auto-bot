@@ -1,0 +1,6 @@
+{
+    "do_task": true,
+    "play_game": true,
+    "min_point": 150,
+    "max_point": 250 
+}
